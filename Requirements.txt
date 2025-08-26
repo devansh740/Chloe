@@ -1,0 +1,15 @@
+openai
+faster-whisper
+sounddevice
+scipy
+pygame
+google-cloud-texttospeech
+numpy
+tensorflow
+torch
+playsound
+pydub
+edge-tts
+SpeechRecognition
+pywhatkit
+pyaudio
